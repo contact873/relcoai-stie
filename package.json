@@ -1,0 +1,10 @@
+{
+  "name": "connect-raschident",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Connect by Relco Digital: static site with a serverless contact form.",
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "nodemailer": "^6.9.14"
+  }
+}
